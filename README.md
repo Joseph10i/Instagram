@@ -17,7 +17,7 @@ The following **optional** features are implemented:
 
 - [ ] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
-- [x] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
+- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
 The following **additional** features are implemented:
 
