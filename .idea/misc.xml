@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/hp/Instagram/app/src/main/res/layout/activity_login.xml" value="0.2" />
-        <entry key="..\:/Users/hp/Instagram/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Instagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Instagram/app/src/main/res/layout/fragment_compose.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/hp/Instagram/app/src/main/res/layout/fragment_feed.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/hp/Instagram/app/src/main/res/layout/item_post.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/hp/Instagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/Instagram/app/src/main/res/xml/fileprovider.xml" value="0.12182971014492754" />
       </map>
     </option>
